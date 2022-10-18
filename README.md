@@ -105,10 +105,10 @@ This file contains all the constant variables we require in our app.
 
 ### Cloud Architecture
 In firebase storage, I have uploaded all the songs .mp3 files along with their thumbnail .jpg files.
-<img src="storage.PNG" alt="drawing" width="600"/>
+<img src="Firebase_Storage.png" alt="drawing" width="600"/>
 
 In firebase database, I have stored meta data of all the songs including their firebase storage's song url and thumbnail image url.<br />
-<img src="database.PNG" alt="drawing" width="600"/><br>
+<img src="Firebase_Firestore.png" alt="drawing" width="600"/><br>
 
 
 ## Contact
