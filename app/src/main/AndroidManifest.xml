@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.pcandroiddev.piedpiper">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+
+    <application
+        android:name="com.pcandroiddev.piedpiper.PiedPiperApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.PiedPiper">
+        <service android:name="com.pcandroiddev.piedpiper.exoplayer.MusicService"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.media.browser.MediaBrowseService" />
+            </intent-filter>
+        </service>
+        <activity android:name="com.pcandroiddev.piedpiper.ui.PiedPiperActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "782917118425",
+    "project_id": "pied-piper-794aa",
+    "storage_bucket": "pied-piper-794aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782917118425:android:5797bd41d8f374fa5551c8",
+        "android_client_info": {
+          "package_name": "com.pcandroiddev.piedpiper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782917118425-ji07s4ngs18f4qtk4hopamuuptie6kvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_ZlobFYDqekrL7OXdtpuhRFwi5K3w2k0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782917118425-ji07s4ngs18f4qtk4hopamuuptie6kvc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
