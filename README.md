@@ -1,5 +1,5 @@
-# Musicify
-**Musicify** is an **Audio Streaming App** just like spotify. It takes songs and their metadata from cloud storage and plays them in the app using **Exoplayer**. 
+# Pied Piper
+**Pied Piper** is an **Audio Streaming App** just like spotify. It takes songs and their metadata from cloud storage and plays them in the app using **Exoplayer**. 
 
 <p style="float: left;">
 <img src="homefragment.jpg" width="300" />
@@ -111,4 +111,4 @@ In firebase database, I have stored meta data of all the songs including their f
 
 
 ## Contact
-For any queries, you can mail me at developerishant710@gmail.com
+For any queries, you can mail me at prathmeshkc2001@gmail.com
