@@ -1,5 +1,5 @@
 # Pied Piper
-**Pied Piper** is an **Audio Streaming App** just like spotify. It takes songs and their metadata from cloud storage and plays them in the app using **Exoplayer**. 
+**Pied Piper** is an **Audio Streaming App** just like Spotify. It takes songs and their metadata from cloud storage and plays them in the app using **Exoplayer**. 
 
 <p>
 <img src="HomeFragment.jpg" width="300"/>
